@@ -1,2 +1,2 @@
 # energylabel.github.io
-product energylabel 
+Energylabel of ventmax products
